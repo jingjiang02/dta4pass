@@ -111,5 +111,5 @@ We appreciate the previous open-source works.
 If you find DTA4PASS useful in your research, please consider citing:
 
 ```bibtex
-TODO.
+TODO
 ```
