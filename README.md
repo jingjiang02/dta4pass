@@ -111,5 +111,12 @@ We appreciate the previous open-source works.
 If you find DTA4PASS useful in your research, please consider citing:
 
 ```bibtex
-TODO
+@article{jiang2025multi,
+  title={Multi-source domain adaptation for panoramic semantic segmentation},
+  author={Jiang, Jing and Zhao, Sicheng and Zhu, Jiankun and Tang, Wenbo and Xu, Zhaopan and Yang, Jidong and Liu, Guoping and Xing, Tengfei and Xu, Pengfei and Yao, Hongxun},
+  journal={Information Fusion},
+  pages={102909},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
