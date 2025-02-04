@@ -111,12 +111,12 @@ We appreciate the previous open-source works.
 If you find DTA4PASS useful in your research, please consider citing:
 
 ```bibtex
-@article{zhao2025multi,
-  title={Multi-source multi-modal domain adaptation},
-  author={Zhao, Sicheng and Jiang, Jing and Tang, Wenbo and Zhu, Jiankun and Chen, Hui and Xu, Pengfei and Schuller, Bj{\"o}rn W and Tao, Jianhua and Yao, Hongxun and Ding, Guiguang},
+@article{jiang2025multi,
+  title={Multi-source domain adaptation for panoramic semantic segmentation},
+  author={Jiang, Jing and Zhao, Sicheng and Zhu, Jiankun and Tang, Wenbo and Xu, Zhaopan and Yang, Jidong and Liu, Guoping and Xing, Tengfei and Xu, Pengfei and Yao, Hongxun},
   journal={Information Fusion},
   volume={117},
-  pages={102862},
+  pages={102909},
   year={2025},
   publisher={Elsevier}
 }
